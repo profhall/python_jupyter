@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="869c407d-bca7-4748-ab19-51d9075fe0d7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Classes.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditionals.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Conditionals.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Decorators.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Decorators.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileIO.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/FileIO.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generators.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Generators.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Loops.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modules.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Modules_IDEs.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Functions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modules_IDEs.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Modules_IDEs.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Strings.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Strings.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TheBasics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/TheBasics.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,17 +19,17 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Modules_IDEs.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Conditionals.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataStructures1.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Loops.ipynb">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Introduction.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
@@ -70,7 +58,7 @@
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generators.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
@@ -80,10 +68,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="2048" />
-    <option name="height" value="1027" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="791" />
+    <option name="width" value="1129" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -111,7 +99,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="Jupyter Settings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -140,26 +128,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590353318073</updated>
-      <workItem from="1590353319816" duration="4012000" />
+      <workItem from="1590353319816" duration="5240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4012000" />
+    <option name="totallyTimeSpent" value="5240000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="2048" height="1027" extended-state="0" />
-    <editor active="true" />
+    <frame x="791" y="0" width="1129" height="1080" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20388834" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17111315" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Educational.CheckDetails" />
       <window_info anchor="bottom" id="Docker" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32941177" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3049505" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -185,15 +172,6 @@
     <entry file="file://$PROJECT_DIR$/TheBasics.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Modules_IDEs.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataStructures1.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
@@ -209,9 +187,6 @@
     <entry file="file://$PROJECT_DIR$/FileIO.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Strings.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Classes.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
@@ -219,6 +194,18 @@
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Generators.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strings.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modules_IDEs.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditionals.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
